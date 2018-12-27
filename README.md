@@ -1,6 +1,6 @@
 ## Deep Object Detectors Performance Evaluation Tool
 
-This implementation is written on Python 3, which aims to provide classification and detection performances of various object detectors. We have created [Evaluate_Models.ipynb](https://github.com/msprITU/Deep-Performance-Evaluation-Tool/blob/master/demo/Evaluate_Models.ipynb) file in order to analyse the false and miss detections of these object detection frameworks.
+This implementation is written on Python 3, which aims to provide classification and detection performances of various object detectors such as Mask R-CNN, YOLOv3 and SSD. We have created [Evaluate_Models.ipynb](https://github.com/msprITU/Deep-Performance-Evaluation-Tool/blob/master/demo/Evaluate_Models.ipynb) file in order to analyse the false and miss detections of these object detection frameworks.
 
 In this repository we included:
 * Confusion matrices of different models provided for IoU threshold 0.5
